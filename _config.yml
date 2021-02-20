@@ -72,7 +72,7 @@ naver_site_verification  :
 # Social Sharing
 twitter:
   username               :
-facebook:
+facebook: "https://www.facebook.com/chullhwan.song"
   username               :
   app_id                 :
   publisher              :
