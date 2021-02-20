@@ -11,7 +11,7 @@
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
 # theme                  : "minimal-mistakes-jekyll"
-remote_theme             : mmistakes/minimal-mistakes
+remote_theme             : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "aqua" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
@@ -19,8 +19,8 @@ locale                   : "en-US"
 title                    : "Reading Deep Learning Papers"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : #"꾸준히 공부하는 개발자"
-description              : #"Deep Learning 논문을 주요 내용만 추려서 보여주는 블로그"
+name                     : "꾸준히 공부하는 개발자"
+description              : "Deep Learning 논문을 주요 내용만 추려서 보여주는 블로그"
 url                      : "https://chullhwan-song.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "chullhwan-song" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
