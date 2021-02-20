@@ -23,7 +23,7 @@ name                     : "ChullHwan Song"
 description              : "Deep Learning"
 url                      : "https://chullhwan-song.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "chullhwan-song" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "ChullHwan Song"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "https://pbs.twimg.com/profile_banners/1667766445/1376399300/1500x500" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "**Deep Learning**"
   location         : "South Korea"
   email            :
