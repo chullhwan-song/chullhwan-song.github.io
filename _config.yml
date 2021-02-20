@@ -96,7 +96,7 @@ analytics:
 author:
   name             : "ChullHwan Song"
   avatar           : "/assets/images/logo.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "**Deep Learning**"
+  bio              : "Deep Learning"
   location         : "South Korea"
   email            :
   links:
@@ -108,7 +108,7 @@ author:
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+      url: "https://twitter.com/keylinker"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
