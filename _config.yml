@@ -94,11 +94,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  name             : "딥러닝에 꼬인 개발자"
+  avatar           : "/assets/images/pic.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "딥러링 연구 논문 읽고 핵심 주제만 정리하기"
+  location         : "South Korea"
+  email            : "peternara@naver.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
