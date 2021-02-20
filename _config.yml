@@ -96,7 +96,7 @@ analytics:
 author:
   name             : "꼬인 개발자"
   avatar           : "/assets/images/logo2.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "핵심 주제만 정리하기"
+  bio              : "핵심 주제만 정리"
   location         : "South Korea"
   email            : "peternara@naver.com"
   links:
