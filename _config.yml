@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "ChullHwan Song"
-  avatar           : "https://pbs.twimg.com/profile_banners/1667766445/1376399300/1500x500" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "logo.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "**Deep Learning**"
   location         : "South Korea"
   email            :
