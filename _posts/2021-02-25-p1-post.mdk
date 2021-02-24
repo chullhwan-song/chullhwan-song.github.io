@@ -8,4 +8,4 @@ categories: DeepLearning
 
 * self attention에 대한 대안적인 프레임 워크라고 주장 > lambda layers <br>
 * self attention은 각 query를 Context에 대한 attention distribution와 연관된 개념이고 <br>
-* lambda layer은 각 context를 해당 query에 적용되는 선형 함수 lambda로 변환(transforms) <br>
+* lambda layer은 각 context를 해당되는 query에 적용되는 선형 함수 lambda로 변환(transforms) <br>
