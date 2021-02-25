@@ -11,4 +11,5 @@ categories: DeepLearning
 * 이는 context 정보를 self attention는 attention 정보에 의해 처리하고, LambdaNetworks는 선형함수인 lambda  <br>
 
 <b> 설명</b> <br>
+
 ![image](https://user-images.githubusercontent.com/40360823/109110720-0005e080-777b-11eb-96fa-f7bdc89a2bf4.png) <br>
